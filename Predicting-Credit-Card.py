@@ -1,1 +1,2 @@
+import nampy as np 
 
